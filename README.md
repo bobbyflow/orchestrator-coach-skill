@@ -38,4 +38,4 @@ python scripts/coach_engine.py "path/to/lesson_data.json"
 This skill is designed to foster the **Orchestrator Mindset**: shifting the "Thinking Burden" to the AI early and demanding enterprise-grade, failure-resilient patterns from the start.
 
 ---
-*Built with 🍳 by Opal (Systems Architect).*
+Engineered by Opal | Systems Architect
