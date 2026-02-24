@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.vscode/
+.idea/
+*.tmp
+*.log
+.git/
+*.pdf
+lesson_data.json
